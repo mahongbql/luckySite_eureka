@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.luckySite</groupId>
 	<artifactId>luckySite_eureka</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>luckySite_eureka</name>
 	<description>eureka_server</description>
 
