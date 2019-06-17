@@ -1,14 +1,3 @@
 spring:
-  application:
-    name: eureka-server
-
-server:
-  port: 8761
-
-eureka:
-  instance:
-    #指定当profile=peer1时,主机名是peer1
-    hostname: eureka1
-  client:
-    registerWithEureka: false
-    fetchRegistry: false
+  profiles:
+    active: dev
